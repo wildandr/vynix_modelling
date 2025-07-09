@@ -51,7 +51,6 @@ action_size = 3
 train_interval = 10
 target_update_freq = 2
 
-
 #  REPLAY BUFFER
 
 class ReplayBuffer:
